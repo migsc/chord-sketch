@@ -1,2 +1,2 @@
-# music-inspiration-tool
+# chord-sketch
 Created with CodeSandbox
